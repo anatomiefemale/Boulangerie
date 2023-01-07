@@ -1,6 +1,6 @@
 # Boulangerie
 
-<img src="https://user-images.githubusercontent.com/122175565/211167463-26e5dff8-a55d-4af6-8617-7e90895c0db3.jpg" width=20% height=20%>
+<img src="https://user-images.githubusercontent.com/122175565/211167463-26e5dff8-a55d-4af6-8617-7e90895c0db3.jpg" width=25% height=25%>
 
 Hello!
 
