@@ -4,5 +4,5 @@
 
 Hello!
 
-This repository, 'pink' contains scripts for Machine Learning algorithmis, implemented from scratch. 
+This repository, ![image](https://user-images.githubusercontent.com/122175565/211166819-5d7de33d-daba-4f5a-9771-055367ad58d6.png) contains scripts for Machine Learning algorithmis, implemented from scratch. 
 **Under Construction**
