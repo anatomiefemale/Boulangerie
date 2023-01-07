@@ -4,5 +4,5 @@
 
 Hello!
 
-This repository, ![image](https://user-images.githubusercontent.com/122175565/211166879-d95454b1-f50f-4bf2-8fd9-7527804b4924.png) contains scripts for Machine Learning algorithmis, implemented from scratch. 
+This repository, ![image](https://user-images.githubusercontent.com/122175565/211167010-284f1870-ddea-406a-8030-cf3df5ca3478.png) contains scripts for Machine Learning algorithmis, implemented from scratch. 
 **Under Construction**
