@@ -4,7 +4,7 @@
 
 Hello!
 
-This repository, **Boulangerie** contains scripts for Machine Learning algorithmis, baked from scratch. 
+This repository, **Boulangerie** contains scripts for Machine Learning algorithms, baked from scratch. Also includes scripts for artificial intelligence. 
 **Under Construction**
 
 **1. Frosting.py** Python script, implementing Logistic Regression from scratch.
