@@ -11,6 +11,8 @@ This repository, **Boulangerie** contains scripts for Machine Learning algorithm
 
 **2. Cookies.ipynb** Python script, implementing a customized CNN for normal vs. breast cancer histology classification. **Chocolate_Chip_Cookies.py** provides this model as a .py Data available at OSF Boulangerie.
 
+**3. Pink Sugar.py** Python script, implementing a customized medical chatBot, pre-trained on GPT-2.
+
 
 
 
