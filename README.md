@@ -9,7 +9,7 @@ This repository, **Boulangerie** contains scripts for Machine Learning algorithm
 
 **1. Frosting.py** Python script, implementing Logistic Regression from scratch.
 
-**2. Cookies.ipynb** Python script, implementing a customized CNN for normal vs. breast cancer histology classification. 
+**2. Cookies.ipynb** Python script, implementing a customized CNN for normal vs. breast cancer histology classification. **Chocolate_Chip_Cookies.py** provides this model as a .py
 
 
 
