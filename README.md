@@ -17,6 +17,8 @@ This repository, **Boulangerie** contains scripts for Machine Learning algorithm
 
 **5. Vanilla Scone.py** Python script, implementing LSTM from scratch, for text generation.
 
+**6. Cinnamon Roll.py** Python script, implementing an example of molecular generation after training BERT on SMILES data.
+
 
 
 
