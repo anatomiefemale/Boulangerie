@@ -21,6 +21,14 @@ This repository, **Boulangerie** contains scripts for Machine Learning algorithm
 
 **7. Rasberry Tart.py** Python script, implementing keyword search using TF-IDF to extract keywords associated with Hypertension or Diabetes.
 
+Code developed by Danielle Maeser Stover and Nicole Maeser Griffin
+
+Feel free to browse through our projects. 
+* Connect with us on [LinkedIn (Danielle)](https://www.linkedin.com/in/danielle-stover-ph-d-2388aa1b5/).
+* Connect with us on [LinkedIn (Nicole)](https://www.linkedin.com/in/nicole-maeser-388b661a4/).
+
+
+
 
 
 
