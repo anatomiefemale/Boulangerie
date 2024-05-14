@@ -15,6 +15,8 @@ This repository, **Boulangerie** contains scripts for Machine Learning algorithm
 
 **4. Chocolate Croissant.py** Python script, implementing a transformer model built from scratch, applied for binary classification of an arbitrary encoded patient dataset.
 
+**5. Vanilla Scone.py** Python script, implementing LSTM from scratch, for text generation.
+
 
 
 
