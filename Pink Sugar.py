@@ -1,6 +1,7 @@
 import pandas as pd
 from datasets import load_dataset
-dataset = load_dataset("danielpark/MQuAD-v1")
+#dataset = load_dataset("danielpark/MQuAD-v1") # No longer available
+dataset=load_dataset('flaviagiammarino/vqa-rad') # Also saved as 'medical_conversation_data.csv'
 
 # Assuming 'dataset' is your DatasetDict and you're interested in the 'train' split
 train_dataset = dataset['train']
