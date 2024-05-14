@@ -13,6 +13,8 @@ This repository, **Boulangerie** contains scripts for Machine Learning algorithm
 
 **3. Pink Sugar.py** Python script, implementing a customized medical chatBot, pre-trained on GPT-2.
 
+**4. Chocolate Croissant.py** Python script, implementing a transformer model built from scratch, applied for binary classification.
+
 
 
 
