@@ -19,6 +19,8 @@ This repository, **Boulangerie** contains scripts for Machine Learning algorithm
 
 **6. Cinnamon Roll.py** Python script, implementing an example of molecular generation after training BERT on SMILES data.
 
+**7. Rasberry Tart.py** Python script, implementing keyword search using TF-IDF to extract keywords associated with Hypertension or Diabetes.
+
 
 
 
